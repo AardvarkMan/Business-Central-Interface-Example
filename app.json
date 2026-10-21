@@ -1,8 +1,8 @@
 {
-  "id": "95f78464-383c-4204-8398-4123a3d9f350",
+  "id": "73e037f4-c534-4b77-9b6c-4650e70746b9",
   "name": "Aardvark Labs Template",
   "publisher": "Aardvark Labs",
-  "brief": "Aardvark Labs Customizations.",
+  "brief": "Aardvark Labs Interface Example.",
   "description": "Customizations provided by Aardvark Labs",
   "version": "1.25.0.0",
   "privacyStatement": "http://aardvarklabs.blog",
@@ -16,8 +16,8 @@
   "dependencies": [],
   "screenshots": [],
   "resourceFolders": ["Resources"],
-  "platform": "25.0.0.0",
-  "application": "25.0.0.0",
+  "platform": "29.0.0.0",
+  "application": "29.0.0.0",
   "resourceExposurePolicy": {
     "allowDebugging": true, 
     "allowDownloadingSource": true, 
@@ -27,5 +27,5 @@
   "idRanges": [
     {"from": 50000, "to": 59999}
   ],
-  "runtime":"15.1"
+  "runtime":"18.0"
 }
